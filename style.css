@@ -1,0 +1,36 @@
+.logo{
+    border-radius: 50px;
+    box-shadow: 3px 5px 20px #FF1E00;
+}
+.abc{
+    font-family: 'Oleo Script Swash Caps', cursive;
+    text-align: center;
+    background-color: #FFF38C;
+}
+.trt{
+    font-size: 20px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    background-color: #FFFDE3;
+}
+.str{
+    font-size: 20px;
+    text-align: center;
+    list-style-position: inside;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    background-color: #F7ECDE;
+}
+.gr{
+    font-size: 20px;
+    text-align: right;
+    list-style-position: inside;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    background-color: #21E1E1;
+}
+.vid{
+    font-size: 20px;
+    color: #FF1E00;
+}
+.tg{
+    background-color: #FFF89C;
+    font-size: 20px;
+}
